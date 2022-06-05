@@ -208,6 +208,10 @@ p {
   margin: 20px 10px;
 }
 
+.social-ico:hover {
+  color: #ff4c68;
+}
+
 
 /* only works when media is true, the target needs be inside of media query */
 @media (max-width:1028px) {
